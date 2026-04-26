@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hi, I'm Abdullahi 👋
 
 **Software Engineer · Data Analyst · ML Engineer**
